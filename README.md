@@ -13,4 +13,3 @@ Acknowledgements
 This dataset was meticulously gathered, organized and published by the Food and Agriculture Organization of the United Nations.
 
 Additional datasets report amount of Co2 equivalent emissions of food type prduction life cycle and greenhouse gas emissions by countries (1990-2015).
->>>>>>> 08891ece4453b578dcb56b1ea98a7e85b79cb9a8
